@@ -1,0 +1,1680 @@
+[{
+  "_id": {
+    "$oid": "68bfd6d909f70472c8c53318"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24546866-beaute-sarah-pinborough-bragelonne",
+  "product_id": "24546866",
+  "title": "Beauté",
+  "author": "Sarah Pinborough",
+  "publisher": "Bragelonne",
+  "price": "8,95 €",
+  "stock": "Précommande",
+  "image": "https://leslibraires.b-cdn.net/vjI8jMY4T_7uz2gqiQGyrxrKFE1NVjevmiOvelPBqbk/s:302:204/MTQ4MTA0MTY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6da09f70472c8c53319"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24508765-3-arborescentes-t3-frederic-dupuy-bragelonne",
+  "product_id": "24508765",
+  "title": "3, Arborescentes T3",
+  "author": "Frédéric Dupuy",
+  "publisher": "Bragelonne",
+  "price": "12,90 €",
+  "stock": "Précommande",
+  "image": "https://leslibraires.b-cdn.net/MasRWCYNOk_ASUlioFOawgtZnJLaHSFZgfjYi3yWpCY/s:302:204/MTUwMzI4NDU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6db09f70472c8c5331a"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24570723-1-chronique-du-tueur-de-roi-t1-le-nom-du-vent-patrick-rothfuss-bragelonne",
+  "product_id": "24570723",
+  "title": "1, Chronique du Tueur de Roi, T1 : Le Nom du vent",
+  "author": "Patrick Rothfuss",
+  "publisher": "Bragelonne",
+  "price": "50 €",
+  "stock": "Précommande",
+  "image": "https://leslibraires.b-cdn.net/AK2nWG8B5uRzjw21aXRgjXQ75WHUwya6flkwK82VOQg/s:302:204/MTQ5NDcxOTg.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6dc09f70472c8c5331b"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24546858-the-city-of-stardust-georgia-summers-bragelonne",
+  "product_id": "24546858",
+  "title": "The City of Stardust",
+  "author": "Georgia Summers",
+  "publisher": "Bragelonne",
+  "price": "8,95 €",
+  "stock": "Précommande",
+  "image": "https://leslibraires.b-cdn.net/VGSqPUGcqe3_wWeaDwOAVQfrDKUU5JErIVFyRK4gsPQ/s:302:204/MTQ4MzkwMTc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6dd09f70472c8c5331c"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24546856-2-shadows-of-tenebris-t2-a-touch-of-poison-clare-sager-bragelonne",
+  "product_id": "24546856",
+  "title": "2, Shadows of Tenebris, T2 : A Touch of Poison",
+  "author": "Clare Sager",
+  "publisher": "Bragelonne",
+  "price": "26 €",
+  "stock": "Précommande",
+  "image": "https://leslibraires.b-cdn.net/pV5A6xBE-Qff5Nm0hkafgBUDVX7q83hhXB3lPyw7OJs/s:302:204/MTQ5MTAyMzY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6de09f70472c8c5331d"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24731537-3-la-volonte-de-se-battre-terra-ignota-tome-3--ada-palmer-le-livre-de-poche",
+  "product_id": "24731537",
+  "title": "3, La Volonté de se battre (Terra Ignota, Tome 3)",
+  "author": "Ada Palmer",
+  "publisher": "Le Livre de poche",
+  "price": "11,40 €",
+  "stock": "Précommande",
+  "image": "https://leslibraires.b-cdn.net/Y-6aw0KjBN9yBQNMX5SdcClGrIjcTJtxO1eqTs3pCMo/s:302:204/MTQ3ODk5Njc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6df09f70472c8c5331e"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24575612-j-ai-trop-aime-les-etoiles-emily-hamilton-elder-craft",
+  "product_id": "24575612",
+  "title": "J'ai trop aimé les étoiles",
+  "author": "Emily Hamilton",
+  "publisher": "ELDER CRAFT",
+  "price": "28 €",
+  "stock": "Précommande",
+  "image": "https://leslibraires.b-cdn.net/8_RVakVrwffRxPYaVvuKo453IW0lgxzarKwxIbQ0yMg/s:302:204/MTQ3MzgxMTU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6e009f70472c8c5331f"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24546861-celle-qui-devint-le-soleil-shelley-parker-chan-bragelonne",
+  "product_id": "24546861",
+  "title": "Celle qui devint le soleil",
+  "author": "Shelley Parker-Chan",
+  "publisher": "Bragelonne",
+  "price": "8,95 €",
+  "stock": "Précommande",
+  "image": "https://leslibraires.b-cdn.net/eqGoCN_TI5knOzxKQ-pWx-vys_o6_ROrE-U-_xRtYw0/s:302:204/MTQ4MzkzMzk.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6e109f70472c8c53320"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24581676-les-chroniques-du-radch-integrale-ann-leckie-j-ai-lu",
+  "product_id": "24581676",
+  "title": "Les chroniques du Radch - Intégrale",
+  "author": "Ann Leckie",
+  "publisher": "J'ai Lu",
+  "price": "21,90 €",
+  "stock": "Précommande",
+  "image": "https://leslibraires.b-cdn.net/o023GsvS_rxpAI9dpwb-WQD_hhC50jkEh5ljr4PUuTo/s:302:204/MTQ5MTQ2MTg.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6e309f70472c8c53321"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24569098-neom-lavie-tidhar-mnemos",
+  "product_id": "24569098",
+  "title": "Neom",
+  "author": "Lavie Tidhar",
+  "publisher": "Mnémos",
+  "price": "19 €",
+  "stock": "Précommande",
+  "image": "https://leslibraires.b-cdn.net/ArXXJmNG9NhHNQyFhSgofBYqv2ueZ3Ux-ea-k8dcdXc/s:302:204/MTQ1MjY5MTQ.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6e409f70472c8c53322"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24734061-et-il-nen-resta-plus-que-n-1--sarah-pinsker-oeil-d-or",
+  "product_id": "24734061",
+  "title": "Et il n’en resta plus que (n-1)",
+  "author": "Sarah Pinsker",
+  "publisher": "OEIL D OR",
+  "price": "15 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/Vo-W7A2sZtM7acjGFHxKr91YCIi4tCmf-NbnZUuPRPg/s:302:204/MTQ5NjIzNDI.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6e509f70472c8c53323"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24564251-model-home-rivers-solomon-aux-forges-de-vulcain",
+  "product_id": "24564251",
+  "title": "Model Home",
+  "author": "Rivers Solomon",
+  "publisher": "Aux forges de Vulcain",
+  "price": "22 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/xSs7FgJ4QqxUqSxJuF4tW0krziGF3AF2btMOI_euVOM/s:302:204/MTQ4NDcwMTA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6e709f70472c8c53324"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24517564-can-t-spell-treason-without-tea-thorne-rebecca-tor-books-uk",
+  "product_id": "24517564",
+  "title": "Can't Spell Treason Without Tea",
+  "author": "Thorne, Rebecca",
+  "publisher": "TOR BOOKS UK",
+  "price": "13 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6e909f70472c8c53325"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24581817-la-route-des-ossements-relie-collector-tome-01-les-cendres-divines-demi-winters-ronciere",
+  "product_id": "24581817",
+  "title": "La Route des Ossements - relié collector - Tome 01 Les Cendres divines",
+  "author": "Demi Winters",
+  "publisher": "RONCIERE",
+  "price": "26,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/5f3n3S3TRz0lvTks3MH236Zi7DtgwIzMxj0V2aTYCE8/s:302:204/MTQ5MDk2OTM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6ea09f70472c8c53326"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582137-roman-arcane-league-of-legends-ambessa-choisie-par-le-loup-c-l-clark-mana-books",
+  "product_id": "24582137",
+  "title": "Roman Arcane/League of Legends : Ambessa - Choisie par le loup",
+  "author": "C. L. Clark",
+  "publisher": "Mana Books",
+  "price": "13 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/GtTt0wZJKfbtrMrMJ3bSsCsCVniHpvndlofi84FIMrY/s:302:204/MTQ3ODQ5MDA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6eb09f70472c8c53327"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24542557-la-grande-verdure-lucie-heder-la-volte",
+  "product_id": "24542557",
+  "title": "La grande verdure",
+  "author": "Lucie Heder",
+  "publisher": "La Volte",
+  "price": "19 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/lDow1Y3_JF5FpR9NcKxT9q4gzcnvhPUUmW1bC4faxno/s:302:204/MTQ3NjMxMTc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6ec09f70472c8c53328"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24540348-sintonia-aurelien-police-le-belial",
+  "product_id": "24540348",
+  "title": "Sintonia",
+  "author": "Aurélien Police",
+  "publisher": "Le Bélial",
+  "price": "22,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/gtJqgYcaD0K-etQx04MGDX0phzK3Qu6oDgAg-QyaVA8/s:302:204/MTQ4ODM0MDY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6ed09f70472c8c53329"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24542764-dessous-cocanha-elisa-beiram-atalante",
+  "product_id": "24542764",
+  "title": "Dessous Cocanha",
+  "author": "Elisa Beiram",
+  "publisher": "Atalante",
+  "price": "9,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/8hzW026yjJx5bXv7GuJqqovVzp-peOx46aQgzveXeWY/s:302:204/MTQ3OTQ2OTI.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6ee09f70472c8c5332a"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582210-la-nuit-des-sacrifices-blair-mayers-addictasy",
+  "product_id": "24582210",
+  "title": "La Nuit des Sacrifices",
+  "author": "Blair Mayers",
+  "publisher": "ADDICTASY",
+  "price": "19,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/sXKTSPx0UcbINkhJAXqe2mPSNTzIvC1lKrdxULLioAg/s:302:204/MTQ4NDE2MDY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6ef09f70472c8c5332b"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24731445-acharnel-rose-valder-harpercollins",
+  "product_id": "24731445",
+  "title": "Acharnel",
+  "author": "Rose Valder",
+  "publisher": "HarperCollins",
+  "price": "7,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/LFTLQPBxVJZy3VcI17Sa3E4vqYKoJGXo4Pw3OZsNShE/s:302:204/MTQ3MzU0NTE.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6f009f70472c8c5332c"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24570792-guide-de-la-terre-du-milieu-robert-foster-bragelonne",
+  "product_id": "24570792",
+  "title": "Guide de la Terre du Milieu",
+  "author": "Robert Foster",
+  "publisher": "Bragelonne",
+  "price": "45 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/CDdQAJzKAD-R5ehdoRI-7XP16LrXKXA5t39K5Pohd_k/s:302:204/MTQ4MjA4MDU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6f109f70472c8c5332d"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582700-gods-of-men-barbara-kloss-j-ai-lu",
+  "product_id": "24582700",
+  "title": "Gods Of Men",
+  "author": "Barbara Kloss",
+  "publisher": "J'ai Lu",
+  "price": "9,50 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/Un0BOkkpYcaftqvPWwIwEGxcKM6nHcjWDZoMxo29RNY/s:302:204/MTQ4MzQ2Njg.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6f209f70472c8c5332e"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24566345-nouvelles-de-l-anti-monde-george-langelaan-l-arbre-vengeur",
+  "product_id": "24566345",
+  "title": "Nouvelles de l'anti-monde",
+  "author": "George LANGELAAN",
+  "publisher": "L'Arbre vengeur",
+  "price": "13 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/Be0S42JHYiDNxy9Aoj0TM65tOV6DuNKvK9Yfm_f4KBI/s:302:204/MTQ3NTE2NjU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6f309f70472c8c5332f"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/25180102-histoires-a-devorer-godard-marc-plume-d-or",
+  "product_id": "25180102",
+  "title": "HISTOIRES A DEVORER",
+  "author": "GODARD MARC",
+  "publisher": "PLUME D OR",
+  "price": null,
+  "stock": "Indisponible",
+  "image": "https://leslibraires.b-cdn.net/2558CkNPyG2-URvfFpCK79FljZfL5DxI19tAKxhpvEI/s:302:204/MTQ3NTcwODI.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6f609f70472c8c53330"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24485118-du-matin-dans-les-yeux-romain-desiles-editions-rheartis",
+  "product_id": "24485118",
+  "title": "Du Matin dans les Yeux",
+  "author": "Romain Desiles",
+  "publisher": "Editions Rhéartis",
+  "price": null,
+  "stock": "Indisponible",
+  "image": "https://leslibraires.b-cdn.net/0fn5kY7OzEv2kctOTNP2-t0WJQvrq9JZWZG_YUU29cU/s:302:204/MTQzNjI4MjY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6f809f70472c8c53331"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24563788-somewhere-beyond-the-sea-t-j-klune-macmillan",
+  "product_id": "24563788",
+  "title": "Somewhere Beyond the Sea",
+  "author": "T.J. Klune",
+  "publisher": "Macmillan",
+  "price": null,
+  "stock": "Indisponible",
+  "image": "https://leslibraires.b-cdn.net/ci918Yn3wCSwAyjBHVgZn6VVNYgzh89H1BE4jkHBcug/s:302:204/MTQ2ODc5ODE.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6f809f70472c8c53332"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/25912390-l-echelle-de-reuters-claude-ecken-flatland",
+  "product_id": "25912390",
+  "title": "L'Échelle de Reuters",
+  "author": "Claude Ecken",
+  "publisher": "FLATLAND",
+  "price": "20 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/7IFPhCaONbSa3K35l0wc7_ScFp2uakRSLLMDxTT9Qeo/s:302:204/MTUwMzgwOTA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6fa09f70472c8c53333"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24751275-les-goules-de-la-grange-bateliere-dole-gerard-terre-de-brume",
+  "product_id": "24751275",
+  "title": "LES GOULES DE LA GRANGE-BATELIERE",
+  "author": "DOLE GERARD",
+  "publisher": "Terre de Brume",
+  "price": "19 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/QAPdklaLUkG-TFTkRf-9OMQKX7qV_W4LV-OEPc9iQsU/s:302:204/MTQ2NDM5Mzc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6fb09f70472c8c53334"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24751677-beyond-two-fates-turner-pd-celeste",
+  "product_id": "24751677",
+  "title": "BEYOND TWO FATES",
+  "author": "TURNER PD",
+  "publisher": "CELESTE",
+  "price": "19,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/ywIo5adgSHnIccfU3mwDwJD96X8l6eAlf1s-W_z5Y_E/s:302:204/MTQ3OTQ3NDQ.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6fc09f70472c8c53335"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24447615-the-stardust-grail-kitasei-yume-harper-voyager",
+  "product_id": "24447615",
+  "title": "The Stardust Grail",
+  "author": "Kitasei, Yume",
+  "publisher": "HARPER VOYAGER",
+  "price": "13 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6fd09f70472c8c53336"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24521204-l-arche-des-maudits-une-aventure-de-shagan-et-junia-brussolo-serge-h-o-editions",
+  "product_id": "24521204",
+  "title": "L'ARCHE DES MAUDITS : UNE AVENTURE DE SHAGAN ET JUNIA",
+  "author": "BRUSSOLO SERGE",
+  "publisher": "H&O éditions",
+  "price": "8,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/cH-B4BRinoKSdFgfFgqOlkQHydJDABgg3BCU6UEIrd0/s:302:204/MTQ4OTIyODc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6fd09f70472c8c53337"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24581968-une-ame-a-vendre-harley-laroux-contre-dires",
+  "product_id": "24581968",
+  "title": "Une âme à vendre",
+  "author": "Harley Laroux",
+  "publisher": "Contre-Dires",
+  "price": "22,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/saM3kRXWv50SLD2qlaEvtI1kqnR_U5jTNvcO1_QaUjM/s:302:204/MTQ5NDI4MjQ.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6fe09f70472c8c53338"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582980-atalante-relie-collector--jennifer-saint-sabran",
+  "product_id": "24582980",
+  "title": "Atalante (relié collector)",
+  "author": "Jennifer Saint",
+  "publisher": "SABRAN",
+  "price": "26,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/hLnw93vDlmgRz4dZOl1UYpslpJ2ubTZo00NlAtYC5fA/s:302:204/MTQ4MzQ0MzU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd6ff09f70472c8c53339"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24548241-selenie-des-terres-mortes-philippe-tessier-leha",
+  "product_id": "24548241",
+  "title": "Sélénie des Terres Mortes",
+  "author": "Philippe Tessier",
+  "publisher": "Leha",
+  "price": "22 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/5hjcBdYh-_2pBWz-T1OJFg9lZ8XDvMnL3u5p753f9K4/s:302:204/MTQ5MjAxODM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70109f70472c8c5333a"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582319-atalante-broche--jennifer-saint-sabran",
+  "product_id": "24582319",
+  "title": "Atalante (broché)",
+  "author": "Jennifer Saint",
+  "publisher": "SABRAN",
+  "price": "19,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/ksJOzLg5TP2Jo0JqW0HrsjkVNovQPdLZ3qW5kGnqM5Y/s:302:204/MTQ4MzQ1Njg.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70209f70472c8c5333b"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24542913-petit-grand-le-parlement-des-fees-le-parlement-des-fees-john-crowley-atalante",
+  "product_id": "24542913",
+  "title": "Petit, grand : le parlement des fées, LE PARLEMENT DES FEES",
+  "author": "John Crowley",
+  "publisher": "Atalante",
+  "price": "32,50 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/w8fzDhCRaONIFH8jVO7TyVRpypzR2AeZYjb-lnSgBys/s:302:204/MTQ3NjY3MzQ.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70409f70472c8c5333c"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582811-les-dieux-dechus-tome-02-sunbringer-poche--hannah-kaner-pal",
+  "product_id": "24582811",
+  "title": "Les Dieux déchus - Tome 02 Sunbringer (poche)",
+  "author": "Hannah Kaner",
+  "publisher": "PAL",
+  "price": "8,30 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/q8Xi3OF2aUUabPT3N_251hvfmznJvVCthxjjz8ChX9w/s:302:204/MTQ4MzA5OTM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70609f70472c8c5333d"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582518-star-wars-le-regne-de-l-empire-tome-1-le-masque-de-la-peur-alexander-freed-pocket",
+  "product_id": "24582518",
+  "title": "Star Wars Le règne de l'Empire - Tome 1 Le masque de la peur",
+  "author": "Alexander Freed",
+  "publisher": "Pocket",
+  "price": "12,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/R5y0EmRRyLs_ro1A8--x8lGkNSsR1DZ4_9c-Y85gfho/s:302:204/MTQ4ODUxNzk.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70709f70472c8c5333e"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24583083-devoreur-d-hommes-tome-02-devorer-les-tenebres-broche--nikki-st-crowe-ronciere",
+  "product_id": "24583083",
+  "title": "Dévoreur d'hommes - Tome 02 Dévorer les ténèbres (broché)",
+  "author": "Nikki St. Crowe",
+  "publisher": "RONCIERE",
+  "price": "17,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/1665ytF0v_Yg9aag-QUB8oksvkD4f5VVUpS-2b2dDqU/s:302:204/MTQ4MjU5NTU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70809f70472c8c5333f"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24423358-trilogie-de-l-enfant-de-la-maree-1-les-vaisseaux-d-os-r-j-barker-leha",
+  "product_id": "24423358",
+  "title": "Trilogie de l'Enfant de la marée, 1, Les vaisseaux d'os",
+  "author": "R.J. Barker",
+  "publisher": "Leha",
+  "price": "25 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/3ZXf6AqfhYHkJgR6MN_umpPVcBej_ejEpkpAPj0uWvk/s:302:204/MTQ5MDEwNzM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70909f70472c8c53340"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24250272-primal-hunter-tome-3-zogarth-lorestone",
+  "product_id": "24250272",
+  "title": "Primal Hunter - Tome 3",
+  "author": "Zogarth",
+  "publisher": "LORESTONE",
+  "price": "18,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/9a7cpbLYvQYN9xRSXw3wP9crEUVLNc2gDuO36BKQeGw/s:302:204/MTM3OTMyOTc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70a09f70472c8c53341"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24717737-le-serment-du-haut-kahl-monsieur-gav-thorpe-black-library",
+  "product_id": "24717737",
+  "title": "Le Serment du Haut Kâhl",
+  "author": "Monsieur Gav Thorpe",
+  "publisher": "Black Library",
+  "price": "15 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/PeITU602M2_X0NP7pOEsEEgqZmy4hUHyL2EUiosPczk/s:302:204/MTQ1OTMyMTA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70a09f70472c8c53342"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582081-vesperal-tome-01-les-terres-eternelles-relie-collector--ed-crocker-de-saxus",
+  "product_id": "24582081",
+  "title": "Vespéral - Tome 01 Les Terres éternelles (relié collector)",
+  "author": "Ed Crocker",
+  "publisher": "De Saxus",
+  "price": "26,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/azezezkHxHcvUcFuA5oELNA_FhlQejTh7Q2b-N3NCOs/s:302:204/MTQ4ODMzMjU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70b09f70472c8c53343"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582363-faithbreaker-relie-collector--tome-03-les-dieux-dechus-hannah-kaner-de-saxus",
+  "product_id": "24582363",
+  "title": "Faithbreaker (relié collector) - Tome 03 Les Dieux déchus",
+  "author": "Hannah Kaner",
+  "publisher": "De Saxus",
+  "price": "27,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/jRdUHzHjlS0erKnSsafWCiD1BQBcsTHEVRs8Mh16I0w/s:302:204/MTQ5MDQ3NDc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70d09f70472c8c53344"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24457341-la-flamme-des-dragons-tome-01-la-reine-du-feu-broche--olivia-rose-darling-ronciere",
+  "product_id": "24457341",
+  "title": "La Flamme des dragons - Tome 01 La Reine du feu (broché)",
+  "author": "Olivia Rose Darling",
+  "publisher": "RONCIERE",
+  "price": "19,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/yZDl8aUH6r8hW_USYKYA7mexgxRFOXAA2N0-Z_bNOck/s:302:204/MTQ4NDcwMjc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70e09f70472c8c53345"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582830-faithbreaker-broche--tome-03-les-dieux-dechus-hannah-kaner-de-saxus",
+  "product_id": "24582830",
+  "title": "Faithbreaker (broché) - Tome 03 Les Dieux déchus",
+  "author": "Hannah Kaner",
+  "publisher": "De Saxus",
+  "price": "20,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/3sjf68YXPsfDz7-LXDsvlWfwYa9PzK52HlSeh_EbJjo/s:302:204/MTQ5MDQ1MTE.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70f09f70472c8c53346"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24721278-anthologie-twisted-tale-histoires-inedites-volume-2-8-nouvelles-inedites-dans-l-univers-de-la-saga-twisted-tale-livia-blackburne-farrah-rochon-micol-ostow-kristina-perez-liz-braswell-hachette-heroes",
+  "product_id": "24721278",
+  "title": "Anthologie Twisted Tale - Histoires inédites Volume 2, 8 nouvelles inédites dans l'univers de la saga Twisted Tale",
+  "author": "Livia Blackburne, Farrah Rochon, Micol Ostow, Kristina Pérez, Liz Braswell",
+  "publisher": "Hachette Heroes",
+  "price": "22 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/fxyZ4DTfjQuXpd50m13SNWhBpGVGiE7i2IrRfQhr19k/s:302:204/MTQ4MTI3NjI.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd70f09f70472c8c53347"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24591371-alien-earth-megan-lindholm-j-ai-lu",
+  "product_id": "24591371",
+  "title": "Alien Earth",
+  "author": "Megan Lindholm",
+  "publisher": "J'ai Lu",
+  "price": "9,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/s5ANvNsFleovp1CeikPon4RUoQBQ_TgZ_2iodP-_d1g/s:302:204/MTQ4MDA5MTI.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71209f70472c8c53348"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24583001-les-aventuriers-de-la-mer-7-le-seigneur-des-trois-regnes-robin-hobb-j-ai-lu",
+  "product_id": "24583001",
+  "title": "Les Aventuriers de la Mer, 7, Le seigneur des Trois Règnes",
+  "author": "Robin Hobb",
+  "publisher": "J'ai Lu",
+  "price": "8,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/KE15S2NoANtXFkDiC9rBDVlHh7PhTbVRjZAkrJbomLU/s:302:204/MTQ4MTA4NDE.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71309f70472c8c53349"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24575611-2-decimus-fate-les-ombres-de-guile-peter-a-flannery-elder-craft",
+  "product_id": "24575611",
+  "title": "2, Decimus Fate : Les ombres de Guile",
+  "author": "Peter A. Flannery",
+  "publisher": "ELDER CRAFT",
+  "price": "20 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/HefDIPYkksgMzJ0QDRej53d7f3HdQK3W0gWdwJ3Zijg/s:302:204/MTQ1NDc5MDI.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71409f70472c8c5334a"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582246-les-aventuriers-de-la-mer-9-les-marches-du-trone-robin-hobb-j-ai-lu",
+  "product_id": "24582246",
+  "title": "Les Aventuriers de la Mer, 9, Les marches du trône",
+  "author": "Robin Hobb",
+  "publisher": "J'ai Lu",
+  "price": "8,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/nIDvGqBoHBXzLD6NakWw_6MMFkiSknr8vS5rRyXhRQk/s:302:204/MTQ4MTAzODY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71509f70472c8c5334b"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24583203-les-aventuriers-de-la-mer-8-ombres-et-flammes-robin-hobb-j-ai-lu",
+  "product_id": "24583203",
+  "title": "Les Aventuriers de la Mer, 8, Ombres et flammes",
+  "author": "Robin Hobb",
+  "publisher": "J'ai Lu",
+  "price": "8,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/AgJ_I22t4mFW3CeAmQvHKV3eL5QrmNh3iztWrlkA57g/s:302:204/MTQ4MTA5Nzc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71609f70472c8c5334c"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24456185-la-flamme-des-dragons-tome-01-la-reine-du-feu-relie-collector--olivia-rose-darling-ronciere",
+  "product_id": "24456185",
+  "title": "La Flamme des dragons - Tome 01 La Reine du feu relié (collector)",
+  "author": "Olivia Rose Darling",
+  "publisher": "RONCIERE",
+  "price": "26,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/EtjJsny2PkYz0EXqMH3lnFvMkaFQlNCXPJCZG4CHaFM/s:302:204/MTQ4NDY0ODY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71709f70472c8c5334d"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/23598888-talisman-peter-straub-stephen-king-le-livre-de-poche",
+  "product_id": "23598888",
+  "title": "Talisman",
+  "author": "Peter Straub, Stephen King",
+  "publisher": "Le Livre de poche",
+  "price": "14,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/X8kMbuKbgh8rA3x899uXn-Cubgm712VmUs4amUXW3cI/s:302:204/MTUwNTI5NTE.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71809f70472c8c5334e"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24548094-le-cycle-des-rages-tome-1-les-survivants-du-ciel-kritika-h-rao-albin-michel",
+  "product_id": "24548094",
+  "title": "Le Cycle des Rages - tome 1 - Les Survivants du ciel",
+  "author": "Kritika H. Rao",
+  "publisher": "Albin Michel",
+  "price": "24,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/KPi6EuSSh_4QDxWMnKzgEaRf7MfJvJIWEQPwmCxSyMo/s:302:204/MTQ4MTU1NTA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71909f70472c8c5334f"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582275-vesperal-tome-01-les-terres-eternelles-poche--ed-crocker-pal",
+  "product_id": "24582275",
+  "title": "Vespéral - Tome 01 Les Terres éternelles (poche)",
+  "author": "Ed Crocker",
+  "publisher": "PAL",
+  "price": "8,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/chZunhTA4FaUK9pV0ieFFvxkueICn7EzRvJIZa9SCBQ/s:302:204/MTQ4OTY5NTc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71b09f70472c8c53350"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24207861-katabasis-us-hardback-standard-edition-r-f-kuang-harper-voyag-us",
+  "product_id": "24207861",
+  "title": "Katabasis – US Hardback Standard Edition",
+  "author": "R F Kuang",
+  "publisher": "HARPER VOYAG US",
+  "price": "36,20 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/32bdI9xdyZgCfcdbLtsUrME5r5WODMWMJndTZd1kkVc/s:302:204/MTUwMjA3ODU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71b09f70472c8c53351"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/25223381-dire-bound-sorensen-sable-bantam",
+  "product_id": "25223381",
+  "title": "Dire Bound",
+  "author": "Sorensen, Sable",
+  "publisher": "Bantam",
+  "price": null,
+  "stock": "Indisponible",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71c09f70472c8c53352"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24770672-dire-bound-sorensen-sable-bantam",
+  "product_id": "24770672",
+  "title": "Dire Bound",
+  "author": "Sorensen, Sable",
+  "publisher": "Bantam",
+  "price": "21,90 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71d09f70472c8c53353"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24137228-katabasis-uk-hardback-r-f-kuang-harper-voyager",
+  "product_id": "24137228",
+  "title": "Katabasis - UK Hardback",
+  "author": "R.F. Kuang",
+  "publisher": "HARPER VOYAGER",
+  "price": "27,50 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/Y5MSN5AIyyjikXmE6K0Lit_GW2HQvLpbgZzQbHRKOyo/s:302:204/MTUwMzg2Mzg.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd71f09f70472c8c53354"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24442625-katabasis-special-deluxe-edition-r-f-kuang-harper-voyager",
+  "product_id": "24442625",
+  "title": "Katabasis - Special Deluxe Edition",
+  "author": "R.F. Kuang",
+  "publisher": "HARPER VOYAGER",
+  "price": "30 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/MJGbwOmmMowE7PGwTk80jYe0aUVmIxi-SQEc3obqeCY/s:302:204/MTUwMzk3OTE.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72009f70472c8c53355"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24137248-katabasis-uk-paperback-kuang-r-f-harpercollins",
+  "product_id": "24137248",
+  "title": "Katabasis - UK Paperback",
+  "author": "Kuang, R F",
+  "publisher": "HarperCollins",
+  "price": "20 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/jeJj7cQ565drtDbF_Am_Bs8IL04RO0zewPa12coQeTw/s:302:204/MTQ2ODU0MDk.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72109f70472c8c53356"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24160028-katabasis-us-hardback-deluxe-limited-edition-r-f-kuang-harper-voyag-us",
+  "product_id": "24160028",
+  "title": "Katabasis - US Hardback DELUXE LIMITED EDITION",
+  "author": "R F Kuang",
+  "publisher": "HARPER VOYAG US",
+  "price": "28 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/gL2ABmip-fasHsQhLZ44jNO1TiSgEM5jHM3sebLr68g/s:302:204/MTUwMTY1OTA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72309f70472c8c53357"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24751197-les-quatre-verites-thomas-c-durand-actusf",
+  "product_id": "24751197",
+  "title": "Les Quatre Vérités",
+  "author": "THOMAS C. DURAND",
+  "publisher": "ActuSF",
+  "price": "9,90 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72409f70472c8c53358"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24539620-alan-jean-marc-dhainaut-taurnada-editions",
+  "product_id": "24539620",
+  "title": "Alan",
+  "author": "Jean-Marc Dhainaut",
+  "publisher": "Taurnada éditions",
+  "price": "10,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/BoRe0ttSZWbjc3lr_lt1BKvDpb2yUp350a7iQcSify8/s:302:204/MTQ5NTU3Njc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72509f70472c8c53359"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24751632-a-toute-vapeur-le-steampunk-en-question-arthur-morgan-actusf",
+  "product_id": "24751632",
+  "title": "A Toute vapeur ! Le Steampunk en question",
+  "author": "ARTHUR MORGAN",
+  "publisher": "ActuSF",
+  "price": "20,90 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72509f70472c8c5335a"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24581753-les-os-emeraude-tome-03-l-heritage-du-jade-poche--fonda-lee-pal",
+  "product_id": "24581753",
+  "title": "Les os émeraude - Tome 03 L'Héritage du jade (poche)",
+  "author": "Fonda Lee",
+  "publisher": "PAL",
+  "price": "11,50 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/bnc-e67c_pkg9aLwwBMrM13JeadMK1rzkrC1PRJSbfM/s:302:204/MTQ4MzAxNDY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72709f70472c8c5335b"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24748329-catoproxine-cellule-173-double-ponctuation",
+  "product_id": "24748329",
+  "title": "Catoproxine",
+  "author": "Cellule 173",
+  "publisher": "Double Ponctuation",
+  "price": "18 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/YUY46bOR62TYtDdGXilZcLGM8tUyb1PY4qyx8PZfJUk/s:302:204/MTQ5NjE1Nzk.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72809f70472c8c5335c"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24544502-2-la-tapisserie-de-fionavar-tome-2-le-feu-vagabond-guy-gavriel-kay-atalante",
+  "product_id": "24544502",
+  "title": "2, La tapisserie de Fionavar tome 2 : Le feu vagabond",
+  "author": "Guy Gavriel Kay",
+  "publisher": "Atalante",
+  "price": "9,50 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/H05bXzV-yN24SzioU0967r5VNhAZc5enXKrd0yE7l3I/s:302:204/MTQ2MDY4Nzg.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72909f70472c8c5335d"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582298-la-maison-de-fleau-et-de-sang-tome-01-ordre-et-chaos-broche--alexis-menard-de-saxus",
+  "product_id": "24582298",
+  "title": "La Maison de Fléau et de Sang - Tome 01 Ordre et Chaos (broché)",
+  "author": "Alexis Menard",
+  "publisher": "De Saxus",
+  "price": "19,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/adHMJs-hN3xOdpJP_OH4dxvPl-qlmex7h13A249XR9g/s:302:204/MTQ4ODM2MTQ.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72a09f70472c8c5335e"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582720-la-chute-d-arthur-john-ronald-reuel-tolkien-pocket",
+  "product_id": "24582720",
+  "title": "La Chute d'Arthur",
+  "author": "John Ronald Reuel Tolkien",
+  "publisher": "Pocket",
+  "price": "9 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/ydJ-51xt1OF5YXkiV3eYodIuneCcZ0buZ43iFX-_X2E/s:302:204/MTQ1NTY4MTg.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72b09f70472c8c5335f"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24581704-damnatio-memoriae-tome-02-enchantee-poche--laura-thalassa-pal",
+  "product_id": "24581704",
+  "title": "Damnatio memoriae - Tome 02 Enchantée (poche)",
+  "author": "Laura Thalassa",
+  "publisher": "PAL",
+  "price": "8,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/eq5HrOYw8zhnDSREUwH5mnqdpeYepGKzM5bUWWIE_Vs/s:302:204/MTQ4MzAxMDk.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72d09f70472c8c53360"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24583180-la-maison-de-fleau-et-de-sang-tome-01-ordre-et-chaos-relie-collector--alexis-menard-de-saxus",
+  "product_id": "24583180",
+  "title": "La Maison de Fléau et de Sang - Tome 01 Ordre et Chaos (relié collector)",
+  "author": "Alexis Menard",
+  "publisher": "De Saxus",
+  "price": "26,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/L0j97wc7jnKRvYqGke9m1pWfDZrPfMZoQQD3iVtozY8/s:302:204/MTQ4ODM2MTc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd72e09f70472c8c53361"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/23650262-tenir-une-auberge-magique-guide-de-survie-pour-sorcieres-sangu-mandanna-lumen",
+  "product_id": "23650262",
+  "title": "Tenir une auberge magique : guide de survie pour sorcières",
+  "author": "Sangu Mandanna",
+  "publisher": "Lumen",
+  "price": "18 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/-v6p9Em7-1AKMOuV6nkalLv2O5M021TcYgvDCHz7P08/s:302:204/MTQ4MDU4NDI.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73009f70472c8c53362"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24544438-kra-john-crowley-atalante",
+  "product_id": "24544438",
+  "title": "Kra",
+  "author": "John Crowley",
+  "publisher": "Atalante",
+  "price": "10,70 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/-uyxCCx8RRED76kKyGhZpwt6KLZmncNOxKfE4P9O3Cw/s:302:204/MTQ0NjYwODk.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73109f70472c8c53363"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24539924-voile-vers-byzance-robert-silverberg-le-belial",
+  "product_id": "24539924",
+  "title": "Voile vers Byzance",
+  "author": "Robert Silverberg",
+  "publisher": "Le Bélial",
+  "price": "11,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/4CMPkx5f6i8x5UrEqQoYkCpxiZYUAApMzxlGN3IlkFc/s:302:204/MTQ3OTU0NjE.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73309f70472c8c53364"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24542736-et-que-desirez-vous-ce-soir-premee-mohamed-atalante",
+  "product_id": "24542736",
+  "title": "Et que désirez-vous ce soir",
+  "author": "Premee Mohamed",
+  "publisher": "Atalante",
+  "price": "11,50 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/4JGOaBWxTEDJhle6CwNq6yag_h0hxsP0ND6x493wEkM/s:302:204/MTQ2MTkwMDc.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73409f70472c8c53365"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24751452-empouvoirement-thomas-c-durand-actusf",
+  "product_id": "24751452",
+  "title": "Empouvoirement",
+  "author": "THOMAS C. DURAND",
+  "publisher": "ActuSF",
+  "price": "20,90 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73509f70472c8c53366"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24595621-le-royaume-des-brumes-1-le-territoire-oublie-le-royaume-des-brumes-1-audrey-khadi-mxm-bookmark",
+  "product_id": "24595621",
+  "title": "Le royaume des brumes, 1, Le territoire oublié, Le royaume des brumes 1",
+  "author": "Audrey Khadi",
+  "publisher": "Mxm Bookmark",
+  "price": "14,99 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/H45LPesCwJ8ALfyxwu-ECulpTeVgFo3RvYUN0NP1a-M/s:302:204/MTQ1Nzk5NzY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73609f70472c8c53367"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24595606-le-prince-de-la-seduction-les-legendes-de-airren-1-5-jenny-hickman-mxm-bookmark",
+  "product_id": "24595606",
+  "title": "Le prince de la séduction, Les légendes de Airren 1.5",
+  "author": "Jenny Hickman",
+  "publisher": "Mxm Bookmark",
+  "price": "21,99 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/y4gzWt7HRz7Nggx5CXDDR_UglUI9Ct71SQtVmsSkXrg/s:302:204/MTQ1ODQ3MDM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73709f70472c8c53368"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24595714-4-la-reine-maudite-dark-fairytales-4-k-f-breene-mxm-bookmark",
+  "product_id": "24595714",
+  "title": "4, La reine maudite, Dark Fairytales 4",
+  "author": "K.F. Breene",
+  "publisher": "Mxm Bookmark",
+  "price": "21,99 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/gDXOV-a8wSz9dCOWsUYBSyCsYJ4PbPUbjDyOonGyEis/s:302:204/MTQ1ODI2NDE.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73709f70472c8c53369"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24717867-sur-un-monde-cannibale-victoria-hayward-black-library",
+  "product_id": "24717867",
+  "title": "Sur un monde Cannibale",
+  "author": "Victoria Hayward",
+  "publisher": "Black Library",
+  "price": "15 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/ZyDqsb5qwwDylb8kyNklaTZfpNhRzISCqUjNMm2U6fw/s:302:204/MTQ1OTM4MDA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73909f70472c8c5336a"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/25124217-le-sorceleur-4-sorceleur-witcher-t4-le-temps-du-mepris-traduction-revisee--andrzej-sapkowski-bragelonne",
+  "product_id": "25124217",
+  "title": "Le Sorceleur, 4, Sorceleur (Witcher), T4 : Le Temps du mépris (traduction révisée)",
+  "author": "Andrzej Sapkowski",
+  "publisher": "Bragelonne",
+  "price": "16,95 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/zlSG1QYAuQh73y7lCOdpKyqKq5326LL77s3-umtvgLE/s:302:204/MTQ3NDc3NTU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73a09f70472c8c5336b"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24785596-le-sorceleur-6-sorceleur-witcher-t6-la-tour-de-l-hirondelle-traduction-revisee--andrzej-sapkowski-bragelonne",
+  "product_id": "24785596",
+  "title": "Le Sorceleur, 6, Sorceleur (Witcher), T6 : La Tour de l'hirondelle (traduction révisée)",
+  "author": "Andrzej Sapkowski",
+  "publisher": "Bragelonne",
+  "price": "17,95 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/7rzBCxszNaf-baXaWf7wBz8DTunPmzUOTo704jNnXtk/s:302:204/MTQ3NDgzMDM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73c09f70472c8c5336c"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24546857-6-sharakhai-t6-le-desert-dechire-bradley-p-beaulieu-bragelonne",
+  "product_id": "24546857",
+  "title": "6, Sharakhaï, T6 : Le Désert déchiré",
+  "author": "Bradley P. Beaulieu",
+  "publisher": "Bragelonne",
+  "price": "9,95 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/cZtPZcbTlZiBoATxSB6TNLdTIXgTGdKFk5ikpslSsBw/s:302:204/MTQ4OTUwNTE.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd73d09f70472c8c5336d"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24546860-1-les-portes-de-tir-na-nog-t1-une-plume-si-noire-lyra-selene-milady",
+  "product_id": "24546860",
+  "title": "1, Les Portes de Tír na nÓg, T1 : Une plume si noire",
+  "author": "Lyra Selene",
+  "publisher": "Milady",
+  "price": "22 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/WbgjD3a5GsY0m2vaJFgek6_reXNVFlwqpomQRo1T-aQ/s:302:204/MTQ4MjA4MzA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74009f70472c8c5336e"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/25125740-le-sorceleur-2-sorceleur-witcher-t2-l-epee-de-la-providence-traduction-revisee--andrzej-sapkowski-bragelonne",
+  "product_id": "25125740",
+  "title": "Le Sorceleur, 2, Sorceleur (Witcher), T2 : L'Épée de la providence (traduction révisée)",
+  "author": "Andrzej Sapkowski",
+  "publisher": "Bragelonne",
+  "price": "16,95 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/5rl6CxtuHTsTS4VY4QWnU1ygpMkNe6XDEwSobmD4HWE/s:302:204/MTQ3NDg1Nzk.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74009f70472c8c5336f"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24595491-1-la-tour-d-avalon-l-academie-des-espions-feys-1-alex-rivers-c-n-crawford-mxm-bookmark",
+  "product_id": "24595491",
+  "title": "1, La Tour d'Avalon, L'Académie des Espions Feys 1",
+  "author": "Alex Rivers, C.N. Crawford",
+  "publisher": "Mxm Bookmark",
+  "price": "21,99 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/nEwwLfCYp1h4H7Nv7poFOhwvbh2IT8VcR4h-lZoAKlo/s:302:204/MTQ1ODc0NTM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74109f70472c8c53370"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24546864-1-l-empire-d-ecume-t1-la-fille-aux-eclats-d-os-andrea-stewart-bragelonne",
+  "product_id": "24546864",
+  "title": "1, L'Empire d'écume, T1 : La Fille aux éclats d'os",
+  "author": "Andrea Stewart",
+  "publisher": "Bragelonne",
+  "price": "8,95 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/6YwLA1u5FJMpdsHCmnswF_YfXh5ZSDccQ2grOjijY7Q/s:302:204/MTQ4MTMxODk.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74209f70472c8c53371"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24569095-les-chemins-de-ji-tome-2-la-souche-perdue-pierre-grimbert-mnemos",
+  "product_id": "24569095",
+  "title": "Les Chemins de Ji, Tome 2, La souche perdue",
+  "author": "Pierre Grimbert",
+  "publisher": "Mnémos",
+  "price": "21,50 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/KdUTI1YL1YCNbt0QS2_ND0ecjDwzNU8TydxY-d-dSCg/s:302:204/MTQ1Mjc0MjA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74309f70472c8c53372"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24595511-le-prince-de-la-seduction-les-legendes-de-airren-1-5-relie--jenny-hickman-mxm-bookmark",
+  "product_id": "24595511",
+  "title": "Le prince de la séduction, Les légendes de Airren 1.5 (Relié)",
+  "author": "Jenny Hickman",
+  "publisher": "Mxm Bookmark",
+  "price": "29,99 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74409f70472c8c53373"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24595590-la-reine-maudite-dark-fairytales-4-relie--k-f-breene-mxm-bookmark",
+  "product_id": "24595590",
+  "title": "La reine maudite, Dark Fairytales 4 (relié)",
+  "author": "K.F. Breene",
+  "publisher": "Mxm Bookmark",
+  "price": "29,99 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74509f70472c8c53374"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24128730-2-l-art-de-la-guerre-t2-l-art-de-la-destinee-wesley-chu-bragelonne",
+  "product_id": "24128730",
+  "title": "2, L'Art de la guerre, T2 : L'Art de la destinée",
+  "author": "Wesley Chu",
+  "publisher": "Bragelonne",
+  "price": "10,95 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/R7EQoo8kBaKh2MbPevz2uY36YZaNmg5B355wNPjPfn0/s:302:204/MTQ3MjQ2MTU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74609f70472c8c53375"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24595715-1-la-tour-d-avalon-l-academie-des-espions-feys-1-edition-relie--alex-rivers-c-n-crawford-mxm-bookmark",
+  "product_id": "24595715",
+  "title": "1, La Tour d'Avalon, L'Académie des Espions Feys 1 (Edition Relié)",
+  "author": "Alex Rivers, C.N. Crawford",
+  "publisher": "Mxm Bookmark",
+  "price": "29,99 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74709f70472c8c53376"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24546859-3-l-arche-spatiale-t3-reines-sous-un-soleil-lointain-peter-f-hamilton-bragelonne",
+  "product_id": "24546859",
+  "title": "3, L'Arche spatiale, T3 : Reines sous un soleil lointain",
+  "author": "Peter F. Hamilton",
+  "publisher": "Bragelonne",
+  "price": "8,95 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/5SZkI2JFm-0iV-9TwcikmYHt59auD8pZsDD3Jk6HYMY/s:302:204/MTQ4OTQ2ODU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74809f70472c8c53377"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24570695-graveyard-shift-m-l-rio-bragelonne",
+  "product_id": "24570695",
+  "title": "Graveyard Shift",
+  "author": "M.L. Rio",
+  "publisher": "Bragelonne",
+  "price": "12 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/_9JcLE-v3NT3koXrwuXVmInS25PfWv1BkeA50VzhlpA/s:302:204/MTQ4MjI2ODE.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74a09f70472c8c53378"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24546855-2-la-saga-des-sans-destin-t2-un-sort-grave-dans-les-os-danielle-l-jensen-bragelonne",
+  "product_id": "24546855",
+  "title": "2, La Saga des sans-destin, T2 : Un sort gravé dans les os",
+  "author": "Danielle L. Jensen",
+  "publisher": "Bragelonne",
+  "price": "22 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/OnxxLkSyzvzN1MsCfa-FrgNarKm9LP4NqwazYF5lxOw/s:302:204/MTQ4ODg5MzA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74b09f70472c8c53379"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24548632-surchauffe-nathan-devers-albin-michel",
+  "product_id": "24548632",
+  "title": "Surchauffe",
+  "author": "Nathan Devers",
+  "publisher": "Albin Michel",
+  "price": "21,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/pKudp6-aWclihUzmhR7hp5eYhxPo6LtttLx4DU3jn-A/s:302:204/MTQ2MTc4MTM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74d09f70472c8c5337a"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24546854-2-la-saga-des-sans-destin-t2-un-sort-grave-dans-les-os-edition-reliee--danielle-l-jensen-bragelonne",
+  "product_id": "24546854",
+  "title": "2, La Saga des sans-destin, T2 : Un sort gravé dans les os (édition reliée)",
+  "author": "Danielle L. Jensen",
+  "publisher": "Bragelonne",
+  "price": "28 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/1nAj7d9lSBrha-nBYPArxT5b-BlTkFVtrgXZYFWRAuY/s:302:204/MTQ5MDEwODY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74e09f70472c8c5337b"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24175256-arcana-academy-kova-elise-hachette-intl",
+  "product_id": "24175256",
+  "title": "Arcana Academy",
+  "author": "Kova, Elise",
+  "publisher": "HACHETTE INTL",
+  "price": "21,10 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/gn1gXUsM8uNStsQgH5lxtniN5tAobl4UNCDf6OLdyYA/s:302:204/MTQ2ODc5OTg.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd74f09f70472c8c5337c"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24090032-l-autre-soi-ii-francois-reignat-pvh-editions",
+  "product_id": "24090032",
+  "title": "L'Autre Soi II",
+  "author": "François Reignat",
+  "publisher": "PVH EDITIONS",
+  "price": "25 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75009f70472c8c5337d"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24456910-lorsque-tombera-la-nuit-tome-01-les-etoiles-se-meurent-poche--chloe-c-penaranda-pal",
+  "product_id": "24456910",
+  "title": "Lorsque tombera la nuit - Tome 01 Les Étoiles se meurent (poche)",
+  "author": "Chloe C. Penaranda",
+  "publisher": "PAL",
+  "price": "9,30 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/Hg_H0fUbtSAZ6OyE477LVpmINa3TOYB1Ehd-1IIZH7Y/s:302:204/MTQ5MzQxOTk.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75109f70472c8c5337e"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24738155-warrior-princess-assassin-kemmerer-brigid-harper-voyager",
+  "product_id": "24738155",
+  "title": "Warrior Princess Assassin",
+  "author": "Kemmerer, Brigid",
+  "publisher": "HARPER VOYAGER",
+  "price": "21,40 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75109f70472c8c5337f"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24548085-an-academy-for-liars-alexis-henderson-penguin",
+  "product_id": "24548085",
+  "title": "An Academy for Liars",
+  "author": "Alexis Henderson",
+  "publisher": "Penguin",
+  "price": "11,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/iqgQUZ_8-jFmKygudDXoeBZ-fQyhzeGZGwi27H4obkw/s:302:204/MTUwMTAwMTA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75209f70472c8c53380"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24457167-lorsque-tombera-la-nuit-tome-02-la-nuit-se-revolte-broche--chloe-c-penaranda-ronciere",
+  "product_id": "24457167",
+  "title": "Lorsque tombera la nuit - Tome 02 La Nuit se révolte (broché)",
+  "author": "Chloe C. Penaranda",
+  "publisher": "RONCIERE",
+  "price": "20,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/U1Sb6iU-EChmS3AykeH8wUsBZuBh6AcndioH9ofa0UQ/s:302:204/MTQ3OTc2NzI.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75309f70472c8c53381"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24455983-lorsque-tombera-la-nuit-tome-02-la-nuit-se-revolte-relie-collector--chloe-c-penaranda-ronciere",
+  "product_id": "24455983",
+  "title": "Lorsque tombera la nuit - Tome 02 La Nuit se révolte (relié collector)",
+  "author": "Chloe C. Penaranda",
+  "publisher": "RONCIERE",
+  "price": "27,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/rSnIReYgfwRUz4f_0zJQeAOm3CQJLNl6F1Sr1DiaH_o/s:302:204/MTQ3OTY0NjQ.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75409f70472c8c53382"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24582150-dracula-bram-stoker-pocket",
+  "product_id": "24582150",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "publisher": "Pocket",
+  "price": "4,60 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/QPBI-SzAEVuJOUp5CL0fMiopjGSzVZYn4YgJFNG7gdg/s:302:204/MTQ4MTcyNzY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75609f70472c8c53383"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24581812-la-nuit-des-temps-une-oeuvre-une-voix-natacha-vas-deyres-florence-renner-rene-barjavel-pocket",
+  "product_id": "24581812",
+  "title": "La Nuit des temps - Une oeuvre une voix",
+  "author": "Natacha Vas Deyres, Florence Renner, René Barjavel",
+  "publisher": "Pocket",
+  "price": "7,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/byWdurcM_izH7v49inwr9ThlMtGuA0qDboMHoyA8ZJA/s:302:204/MTQ5MzAxMDU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75809f70472c8c53384"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24539864-le-palace-oceane-sukali-rageot",
+  "product_id": "24539864",
+  "title": "Le Palace",
+  "author": "Océane Sukali",
+  "publisher": "Rageot",
+  "price": "19,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/3eic1Elfx0Wb5xkndtue6qdhkW8iaWXeOKEEDWda768/s:302:204/MTQ4NDY4NjM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75909f70472c8c53385"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24576865-4-alchemy-and-a-cup-of-tea-tomes-tea-4-us-paperback-rebecca-thorne-tor-books-usa",
+  "product_id": "24576865",
+  "title": "4, Alchemy and a Cup of Tea (Tomes &Tea, 4) – US Paperback",
+  "author": "Rebecca Thorne",
+  "publisher": "Tor Books USA",
+  "price": "22,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/CFA-fdmzGq9dVkdwsWLEuirqVtPFioazme7KSKVGJ9o/s:302:204/MTQ1ODg0Nzg.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75a09f70472c8c53386"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24559211-1-warrior-princess-assassin-standard-edition--brigid-kemmerer-avon-books-usa",
+  "product_id": "24559211",
+  "title": "1, Warrior Princess Assassin (Standard Edition)",
+  "author": "Brigid Kemmerer",
+  "publisher": "Avon Books USA",
+  "price": "20,50 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/f-KTch4EUZjnjkIGzedIvYEhkEesMZh-p6S6Hc5wi44/s:302:204/MTQ5ODkzNzA.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75b09f70472c8c53387"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24488576-the-society-of-unknowable-objects-brown-gareth-william-morrow",
+  "product_id": "24488576",
+  "title": "The Society of Unknowable Objects",
+  "author": "Brown, Gareth",
+  "publisher": "WILLIAM MORROW",
+  "price": "21,60 €",
+  "stock": "En stock",
+  "image": "https://static.leslibraires.fr//websites/design_2024/static/assets/icons/default/book.avif",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75c09f70472c8c53388"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24591615-tree-and-leaf-including-leaf-by-niggle-john-ronald-reuel-tolkien-harpercollins",
+  "product_id": "24591615",
+  "title": "Tree and Leaf, Including Leaf by Niggle",
+  "author": "John Ronald Reuel Tolkien",
+  "publisher": "HarperCollins",
+  "price": "11,85 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/B360bhJzqSyTrmk235y4-AoBa1aEMPrbkQBgxdSrAyY/s:302:204/MTUwMTgwNTY.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75d09f70472c8c53389"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24450440-hemlock-silver-t-kingfisher-tor-books-uk",
+  "product_id": "24450440",
+  "title": "Hemlock & Silver",
+  "author": "T. Kingfisher",
+  "publisher": "TOR BOOKS UK",
+  "price": "19,80 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/Fn-93IkxI4iSRH37Z_cwpXLmK2ULUp8pdgdlR8Zbjag/s:302:204/MTQ5NzMzOTU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75e09f70472c8c5338a"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24568693-the-midnight-shift-uk-paperback-cheon-seon-ran-bloomsbury",
+  "product_id": "24568693",
+  "title": "The Midnight Shift – UK Paperback",
+  "author": "Cheon Seon-Ran",
+  "publisher": "Bloomsbury",
+  "price": "19 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/-qf1vWmJMAHblE4YfRYukFPkoJtLXsuINXoXfXG5PDc/s:302:204/MTQ1ODg0NzQ.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd75f09f70472c8c5338b"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24120044-3-accomplice-to-the-villain-assistant-to-the-villain-3-poche-hannah-nicole-maehrer-penguin",
+  "product_id": "24120044",
+  "title": "3, Accomplice to the Villain (Assistant to the Villain, 3) – Poche",
+  "author": "Hannah Nicole Maehrer",
+  "publisher": "Penguin",
+  "price": "11,90 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/U4DSuwMfTX0bDYgFdHflXbQzWGIhB5d28Hbhyoh-pVg/s:302:204/MTQ5ODMwNjk.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd76009f70472c8c5338c"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24490910-mo-dao-zu-shi-5-le-grand-maitre-de-la-cultivation-demoniaque-5-edition-relie-mo-dao-zu-shi-mo-xiang-tong-xiu-mxm-bookmark",
+  "product_id": "24490910",
+  "title": "Mo Dao Zu Shi, 5, Le Grand Maître de la Cultivation Démoniaque 5 (Edition Relié), Mo Dao Zu Shi",
+  "author": "Mo Xiang Tong-Xiu",
+  "publisher": "Mxm Bookmark",
+  "price": "29,99 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/mnIfUqawqPf4VVn8h8CVYQ5FMNFlHJADS88OjZ55pb8/s:302:204/MTQ3MjUyNDM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd76109f70472c8c5338d"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24717911-les-exiles-du-vide-robbie-macniven-black-library",
+  "product_id": "24717911",
+  "title": "Les Éxilés du Vide",
+  "author": "Robbie MacNiven",
+  "publisher": "Black Library",
+  "price": "15 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/2Z9LfFdotGxmEB_0s_ydz5unXl5A2Ai1YkiESqDQNQI/s:302:204/MTQ1OTQwODM.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd76209f70472c8c5338e"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24494101-mo-dao-zu-shi-5-le-grand-maitre-de-la-cultivation-demoniaque-5-mo-dao-zu-shi-mo-xiang-tong-xiu-mxm-bookmark",
+  "product_id": "24494101",
+  "title": "Mo Dao Zu Shi, 5, Le Grand Maître de la Cultivation Démoniaque 5, Mo Dao Zu Shi",
+  "author": "Mo Xiang Tong-Xiu",
+  "publisher": "Mxm Bookmark",
+  "price": "21,99 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/AyG_ye-iu518LicoCkB7U4S2hQHfFZhjmrIyMF20QQQ/s:302:204/MTQ3MjU1NzU.webp",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68bfd76309f70472c8c5338f"
+  },
+  "product_url": "https://www.leslibraires.fr/livre/24717882-la-chute-de-cadia-robert-rath-black-library",
+  "product_id": "24717882",
+  "title": "La Chute de Cadia",
+  "author": "Robert Rath",
+  "publisher": "Black Library",
+  "price": "16 €",
+  "stock": "En stock",
+  "image": "https://leslibraires.b-cdn.net/jDIJC_-lMkqSBFYsEsIu7V8iQEOG_8KVitiV2PMWq2A/s:302:204/MTQ1OTM4MzM.webp",
+  "status": "pending"
+}]
